@@ -1,0 +1,162 @@
+@Shield Soft Ads
+#Avira
+0.0.0.0 notifier.avira.com
+#ESTsoft
+0.0.0.0 advert.estsoft.com
+#Potplayer
+0.0.0.0 m.adtc.daum.net
+#RealPlayer
+0.0.0.0 client-software.real.com
+0.0.0.0 free-dl.cn.real.com
+0.0.0.0 track.cn.real.com
+0.0.0.0 adimg.realnetworks.com.cn
+0.0.0.0 log.realone.com
+0.0.0.0 realafp.allyes.com
+#SopCast
+0.0.0.0 home.sopserv.com
+#Splayer
+0.0.0.0 splayer11.shooter.cn
+#Tvants
+0.0.0.0 ads.tvants.com
+0.0.0.0 cache2.tvants.com
+#TtkVod
+0.0.0.0 ad.ttkvod.com
+0.0.0.0 hao.kaikai001.com
+#UUSee
+0.0.0.0 download.uusee.com
+0.0.0.0 pop.uusee.com
+0.0.0.0 g.uusee.com
+0.0.0.0 sa.uusee.com
+0.0.0.0 traffic.uusee.com
+0.0.0.0 uhms.uusee.com
+0.0.0.0 uuseeafp.allyes.com
+#Bitcomet
+0.0.0.0 inside.bitcomet.com
+#FlashGet
+0.0.0.0 ack.flashget.com
+0.0.0.0 dll.flashget.com
+0.0.0.0 down1.flashget.com
+0.0.0.0 down2.flashget.com
+0.0.0.0 down3.flashget.com
+0.0.0.0 down4.flashget.com
+0.0.0.0 down5.flashget.com
+0.0.0.0 down6.flashget.com
+0.0.0.0 down7.flashget.com
+0.0.0.0 fetch.flashget.com
+0.0.0.0 ggstat.flashget.com
+0.0.0.0 news.flashget.com
+0.0.0.0 olstat.flashget.com
+0.0.0.0 stac.flashget.com
+0.0.0.0 stat.flashget.com
+0.0.0.0 zx.flashget.com
+0.0.0.0 bc.kuaiche.com
+0.0.0.0 cimg.kuaiche.com
+0.0.0.0 ufile.kuaiche.com
+0.0.0.0 client.kuaiche.com
+0.0.0.0 imgcache.kuaiche.com
+0.0.0.0 directui.kuaiche.com.showq.net
+0.0.0.0 static.u966.com
+0.0.0.0 m.u966.com
+0.0.0.0 al.myrice.com
+0.0.0.0 all.myrice.com
+0.0.0.0 client.myrice.com
+#Duomi
+0.0.0.0 pc.boxshows.com
+#YY
+0.0.0.0 ad.yy.duowan.com
+0.0.0.0 do.yy.duowan.com
+0.0.0.0 forceupdate.yy.duowan.com
+0.0.0.0 gamecollaborate.yy.duowan.com
+0.0.0.0 market.duowan.com
+0.0.0.0 mstat.duowan.com
+0.0.0.0 dw.hiido.cn
+0.0.0.0 im.yy.hiido.cn
+0.0.0.0 njs.dw.hiido.cn
+#Fetion
+0.0.0.0 gg.joytod.com
+0.0.0.0 hdss1fta.fetion.com.cn
+0.0.0.0 huodong.feixin.10086.cn
+0.0.0.0 imgl.fetionpic.com
+0.0.0.0 minisite.fetionpic.com
+0.0.0.0 minisite0.fetionpic.com
+#Hotspot Shield
+0.0.0.0 rss2search.com
+0.0.0.0 box.anchorfree.net
+#Immunet FREE
+0.0.0.0 banner.immunet.com
+#iSeesoft
+0.0.0.0 msg.iseesoft.cn
+0.0.0.0 p.iseeclan.com
+0.0.0.0 stat.iseeclan.com
+#isoshu
+0.0.0.0 mobile.isoshu.com
+0.0.0.0 mobile1.isoshu.com
+0.0.0.0 pub.isoshu.com
+#isGame
+0.0.0.0 isgame.ipark.cn
+0.0.0.0 ghpage.iuzone.com
+0.0.0.0 page.iuzone.com
+#Qianqian
+0.0.0.0 ads.qianqian.com
+0.0.0.0 ttads.ttplayer.com
+0.0.0.0 ttmsg.qianqian.com
+0.0.0.0 ttpack.qianqian.com
+#Maxthon
+0.0.0.0 mk.maxthon.cn
+0.0.0.0 stat-c.maxthon.com
+0.0.0.0 stat-w.maxthon.com
+0.0.0.0 stat.maxthon.com
+0.0.0.0 statcn-c.maxthon.com
+0.0.0.0 stats-a.maxthon.cn
+0.0.0.0 stats-w.maxthon.com
+0.0.0.0 g.dcs.maxthon.com
+0.0.0.0 www.007.mx
+#Micronichefinder
+0.0.0.0 www.micronichefinder.com
+0.0.0.0 micronichefinder.com
+#Neoimaging
+0.0.0.0 ad.neoimaging.cn
+0.0.0.0 clientconfig.neoimaging.cn
+0.0.0.0 jump.neoimaging.cn
+0.0.0.0 recommend.neoimaging.cn
+#P2pover
+0.0.0.0 cache.netsoft2005.com
+0.0.0.0 ext.netsoft2005.com
+0.0.0.0 i.netsoft2005.com
+0.0.0.0 img.img18.com
+0.0.0.0 www.uu654.com
+#Pctutu
+0.0.0.0 info.klplayer.com
+0.0.0.0 update.klplayer.com
+0.0.0.0 info.pcpc8.com
+0.0.0.0 m.pcpc8.com
+0.0.0.0 info.pctutu.net
+0.0.0.0 link.pctutu.com
+0.0.0.0 srtj.pctutu.net
+0.0.0.0 tj.pctutu.net
+0.0.0.0 update.pctutu.com
+0.0.0.0 update.pctutu.net
+#iCiba
+0.0.0.0 34.goto.www.iciba.com
+0.0.0.0 counter.kds.iciba.com
+0.0.0.0 goto.www.iciba.com
+0.0.0.0 u.iciba.com
+0.0.0.0 u.sl.iciba.com
+#QQceo
+0.0.0.0 ad.qqceo.net
+0.0.0.0 toufei.qqceo.net
+0.0.0.0 toufei2.qqceo.net
+0.0.0.0 nl.tg.laolinow.com
+#QQChaoShi
+0.0.0.0 update.imqzone.com
+#QQvoice
+0.0.0.0 union.qqvoice.com
+0.0.0.0 union.uucall.hk
+#Vagaa
+0.0.0.0 btjoy.com
+0.0.0.0 img.daodao001.cn
+0.0.0.0 text.mplayer.org.cn
+0.0.0.0 download.verycd.com
+#Yunduan
+0.0.0.0 tj.yunduan.cn
+0.0.0.0 update.yunduan.cn
